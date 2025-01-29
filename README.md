@@ -8,8 +8,6 @@ This project involves building a deep learning model to classify flower species 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Requirements](#requirements)
-- [License](#license)
 
 ## Project Description
 
